@@ -1,0 +1,21 @@
+[debug] [2022-10-05T14:37:24.700Z] ----------------------------------------------------------------------
+[debug] [2022-10-05T14:37:24.702Z] Command:       /usr/local/bin/firebase /Users/allenaryee/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase init
+[debug] [2022-10-05T14:37:24.702Z] CLI Version:   11.13.0
+[debug] [2022-10-05T14:37:24.702Z] Platform:      darwin
+[debug] [2022-10-05T14:37:24.702Z] Node Version:  v16.16.0
+[debug] [2022-10-05T14:37:24.703Z] Time:          Wed Oct 05 2022 14:37:24 GMT+0000 (Greenwich Mean Time)
+[debug] [2022-10-05T14:37:24.704Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-05T14:37:24.710Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-05T14:37:24.710Z] > authorizing via signed-in user (allenniia@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/allenaryee/Desktop/Portfolio
+

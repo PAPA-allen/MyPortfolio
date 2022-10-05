@@ -1,0 +1,42 @@
+:root
+{
+  --blue: #1477d4;
+    --seablue : #aac8e6;
+    --black : #242D49;
+    --gray : #788097;
+    --green: #87cc89;
+    --purple: rgb(238 210 255);
+    --boxShadow : 0px 19px 60px rgb(0 0 0 / 8%);
+    --deepblueCard: rgba(31, 186, 252, 0.45);
+    --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
+}
+
+.App{
+    color: var(--black); 
+    /* background: url("https://images.pexels.com/photos/4049613/pexels-photo-4049613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"); */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100vw;
+    overflow-x: hidden;
+}
+.button{
+  border-radius: 34px;
+  border: none;
+  color: white;
+  font-size: 18px;
+  padding: 10px 25px 10px 25px;
+  background: linear-gradient(200deg, rgb(95, 92, 305), rgb(95, 92, 307));
+  box-shadow: 0px 20px 24px 3px rgba(99, 172, 198, 0.42);
+}
+
+.button:hover{
+  background: white;
+  cursor: pointer;
+  color: var(--seablue);
+  border: 1px solid var(--orange)
+}
+.main-wrapper{
+  width: 95%;
+  margin: 0 auto;
+}
