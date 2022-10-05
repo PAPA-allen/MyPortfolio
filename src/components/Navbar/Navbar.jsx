@@ -6,8 +6,9 @@ export const Navbar = () => {
   return (
     <div className = "nav-wrapper" id="Home">
       <div className = "nav-left">
-        {/* <div className = "nav-name"></div> */}
-        
+        {/* <div className = "nav-name">
+        </div>
+         */}
       </div>
       <div className = "nav-right">
         <div className ="nav-list">
