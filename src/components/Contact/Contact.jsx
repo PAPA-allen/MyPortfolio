@@ -17,7 +17,7 @@ export const Contact = () => {
         }, (error) => {
             console.log(error.text);
         });
-        // 👇️ clear all input values in the form
+        // clear all input values in the form
         e.target.reset();
     };
   
