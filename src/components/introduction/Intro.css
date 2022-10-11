@@ -77,18 +77,18 @@
     color: var(--seablue);
     
 }
-/* .blur{
-    width: 30rem;
-    height: 60rem;
+.blur{
+    /* width: 30rem;
+    height: 60rem; */
     border-radius: 50%;
-    background: #d7d7d7;
+    background: #255fbb;
     filter: blur(215px);
     z-index: -9;
     top: -28%;
     left: 56%;
     filter: blur(72px)
 
-} */
+}
 
 /* Medium viewport or tablets */
 @media only screen and (min-width: 32.5rem){

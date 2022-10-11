@@ -20,7 +20,7 @@ export const S = () => {
 
         {/* <div
           className="blur s-blur1"
-          style={{ background: "rgb(236 219 255)" }}
+          style={{ background: "var(--seablue)" }}
         ></div> */}
       </div>
       {/* right */}
@@ -48,7 +48,7 @@ export const S = () => {
         >
           <Card
             heading={"Developer Skills"}
-            detail={"Web development, MySQL, UserEXperience(UX), Html, Javascript, ReactJS, Implementing RESTful APIs"}
+            detail={"Web development, MySQL, UserEXperience(UX), Html, Javascript, Figma, ReactJS, Implementing RESTful APIs"}
           />
         </motion.div>
         

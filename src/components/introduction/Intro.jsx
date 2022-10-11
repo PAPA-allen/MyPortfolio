@@ -44,7 +44,7 @@ export const Intro = () => {
         <div
           className="blur"
           style={{
-            background: "rgb(236 219 255)",
+            background: "var(--seablue)",
             top: "17rem",
             width: "31rem",
             height: "13rem",
